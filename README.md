@@ -42,7 +42,7 @@ The first time you run this command it will download the required docker images 
 
     docker-compose pull
 
-Then accesss http://localhost:8888 with your browser and when asked for a
+Then accesss http://localhost:4444 with your browser and when asked for a
 password use the default password ***mir***
 
 Then, you can access the notebooks from the browser and run them.
