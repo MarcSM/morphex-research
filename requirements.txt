@@ -2,6 +2,9 @@
 # requests
 # requests==2.0.1
 
+# Other
+numpy==1.13.3
+
 # Graphics
 ipympl==0.2.1
 tqdm==4.31.1
@@ -11,7 +14,7 @@ traittypes==0.2.1  # bqplot dependency
 bqplot==0.11.5
 
 # Audio
-pyaudio==0.2.11
+#pyaudio==0.2.11
 #sounddevice==0.3.13
 librosa==0.6.3
 
@@ -25,13 +28,5 @@ xmltodict==0.12.0
 jupyter_nbextensions_configurator==0.4.1
 jupyter_contrib_nbextensions==0.5.1
 jupyterthemes==0.20.0
-voila==0.0.9
+#voila==0.0.9
 #jupyter_dashboards==0.7.0
-
-# Machine Learning / Deep Learning
-setuptools==41.0.0
-numpy==1.13.3
-xgboost
-keras
-tensorflow # tensorflow-gpu
-pillow

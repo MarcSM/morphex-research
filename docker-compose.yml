@@ -3,9 +3,6 @@ services:
   mir-tool-extension:
     build: .
     ports:
-        - "8888:8888"
         - "4444:4444"
     volumes:
         - .:/notebooks
-        - /Users/Marc/Research/Datasets:/notebooks/datasets
-        - ~/.config/pulse:/home/mir/.config/pulse
