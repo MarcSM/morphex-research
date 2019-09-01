@@ -28,7 +28,7 @@ https://docs.docker.com/docker-for-mac/install/
 https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-docker-ce
 
 ## Running the Jupyter server 
-In a terminal/console window, change to this directory
+Once Docker is up and running, in a terminal/console window, change to the project directory.
 
 On MacOS or Windows, run:
 
