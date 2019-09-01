@@ -48,3 +48,7 @@ password use the default password ***mir***
 Then, you can access the notebooks from the browser and run them.
 
 **NOTE**: To run the notebooks "3 - Live Audio & Widgets.ipynb" and "4 - Live Morphing.ipynb" it is needed for "PyAudio" to stream audio outside of the docker container. This has not been achieve yet so you have two options, write the result of the processing as a ".wav" file, or install all the packages on "requirements.txt" on your own computer and run the Jupyter server on your machine instead of inside the docker container; to do so, you need to open a terminal, go to the project's folder and run the command "jupyter notebook" to run the server. 
+
+## License
+
+All the software is distributed with the Affero GPL license (http://www.gnu.org/licenses/agpl-3.0.en.html). The sounds located at "data/sounds" come from freesound.org, in particular from http://www.freesound.org/people/xserra/packs/13038/.
