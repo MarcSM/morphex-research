@@ -18,6 +18,10 @@ The second part of this project is the **development of a plugin** that implemen
 
 This repository contains a docker-compose file to run a Jupyter server. To run the notebooks, you need to first install docker and run the Jupyter server available in the docker image.
 
+## Plugin Repository
+
+https://github.com/MarcSM/morphex
+
 ## Install docker
 
 ### Windows
