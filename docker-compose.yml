@@ -1,0 +1,8 @@
+version: "2"
+services:
+  mir-tool-extension:
+    build: .
+    ports:
+        - "4444:4444"
+    volumes:
+        - .:/notebooks
